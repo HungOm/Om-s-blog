@@ -2,6 +2,7 @@ baseurl                 = "https://example.org/"               # Your domain nam
 languageCode            = "en-us"
 title                   = "Call me Om"
 theme                   = "sam"
+publishDir              = "docs"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
 # googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
