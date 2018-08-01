@@ -1,7 +1,9 @@
 baseurl                 = "https://hungom.github.io/Om-s-blog/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Call me Om"
+themesDir               = "themes"
 theme                   = "sam"
+themesDir               = "themes"
 publishDir              = "docs"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
